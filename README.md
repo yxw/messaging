@@ -17,7 +17,7 @@ RabbitMQ
 - Node-to-node (Inter-worker) communication: ZeroMQ or Netty
 - Inter-topology communication: nothing built into Storm, you must take care of this yourself.
 
-See [1][Understanding the Internal Message Buffers of Storm] for more details on messaging in Storm.
+See [1] for more details on messaging in Storm.
 
 References:
 
