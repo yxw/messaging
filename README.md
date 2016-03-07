@@ -21,6 +21,8 @@ See [1][Understanding the Internal Message Buffers of Storm] for more details on
 
 References:
 
-1. [Understanding the Internal Message Buffers of Storm]:http://www.michael-noll.com/blog/2013/06/21/understanding-storm-internal-message-buffers/
+1. [Understanding the Internal Message Buffers of Storm]: http://www.michael-noll.com/blog/2013/06/21/understanding-storm-internal-message-buffers/
 
-2. [Integrating Kafka and Storm](http://www.michael-noll.com/blog/2014/05/27/kafka-storm-integration-example-tutorial/)
+2. [Integrating Kafka and Storm]: http://www.michael-noll.com/blog/2014/05/27/kafka-storm-integration-example-tutorial/
+
+3. 
