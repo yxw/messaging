@@ -9,9 +9,9 @@ Readings/References for low latency messaging
 ZeroMQ, Netty (used by Apache Storm)
 
 ### Standalone distributed messaging system:
-Apache Kafka
-Kestrel
-RabbitMQ
+- Apache Kafka
+- Kestrel
+- RabbitMQ
 
 ## Messaging in Apache Storm
 - Inter-thread (Intra-worker) communication: LMAX Disruptor
